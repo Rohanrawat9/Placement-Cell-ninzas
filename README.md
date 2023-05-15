@@ -13,3 +13,4 @@
 - Download reports of students in csv format
 
 ## Screenshots
+Sign Up
