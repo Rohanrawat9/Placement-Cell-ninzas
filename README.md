@@ -12,5 +12,4 @@
 - Allocate and schedule interview with different companies and update their result status
 - Download reports of students in csv format
 
-## Screenshots
-Sign Up
+
